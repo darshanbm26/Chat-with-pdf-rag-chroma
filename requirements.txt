@@ -1,0 +1,17 @@
+langchain_community
+langchain
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+streamlit
+transformers
+requests
+torch
+einops
+accelerate
+bitsandbytes
+pdfminer.six
+bs4
+sentence_transformers
+chromadb
+safetensors

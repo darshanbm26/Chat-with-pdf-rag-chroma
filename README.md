@@ -1,1 +1,1 @@
-# Chat_with_pdf
+# Chat-with-pdf-rag-chroma
